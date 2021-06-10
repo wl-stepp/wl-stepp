@@ -1,23 +1,8 @@
 ### The skiing biophysicist
 
 I'm currently working on an adaptive approach to microscopy of various biological systems. Originally coming from problems of single-molecule tracking using Matlab I have now shifted to using Python and ventured a little bit into Rust. In order to be able to customize Micro-Manager with some Plugins I have also done some programming in Java.
-I like making GUIs 
+
+Our current project uses a neural network that detects division events in bacteria and mitochondria. We introduce this network into an active feedback loop that controls the acquisition speed of the microscope. With this we can capture division events in high temporal resolution over much longer times, with less photobleaching and reduced phototoxicity.
+
 
 Please also visit https://stepp.one
-
-
-
-<!--
-**wl-stepp/wl-stepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
