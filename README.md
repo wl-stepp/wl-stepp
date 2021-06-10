@@ -1,7 +1,10 @@
 ### The skiing biophysicist
 
-I'm currently working on an adaptive approach to microscopy of various biological systems.
+I'm currently working on an adaptive approach to microscopy of various biological systems. Originally coming from problems of single-molecule tracking using Matlab I have now shifted to using Python and ventured a little bit into Rust. In order to be able to customize Micro-Manager with some Plugins I have also done some programming in Java.
+I like making GUIs 
+
 Please also visit https://stepp.one
+
 
 
 <!--
